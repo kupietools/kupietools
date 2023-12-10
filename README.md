@@ -2,7 +2,7 @@
 - 👀 By vocation I’m a software engineer and consultant specializing for 30 years in FileMaker Pro development, web development (HTML, CSS, js, jQuery, PHP, Wordpress, CGI scripting), MacOS & Linux administration (Applescript, Automator, BASH, PERL, and general platform expertise), MS Excel, and, for the putative future market millionnaires among you, TradingView Pine Script; and inventor, strictly out of necessity, of the things you see in this account. 
 - 🌱 I’m currently learning React and the saxophone 🎷.
 <!--- - 💞️ I’m looking to collaborate on ... --->
-- 📫 How to reach me: contact info is on my business website, https://kupietz.com
+- 📫 How to reach me: email & telephone contact info is on my business website, https://kupietz.com. I'm on LinkedIn at https://www.linkedin.com/in/kupietz/ but if I'm busy that's the last place I'll see messages, using my website contact info is better. 
 - 🖼 I've recently begun showcasing my creative works (within which I include coding) on https://michaelkupietz.com
 
 <!---
