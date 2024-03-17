@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kupietools, the Github presence of Michael E. Kupietz.
-- 👀 By vocation I’m a software engineer and consultant specializing for 30 years in FileMaker Pro development, web development (HTML, CSS, js, jQuery, PHP, Wordpress, CGI scripting), MacOS & Linux administration (Applescript, Automator, BASH, PERL, and general platform expertise), MS Excel, and, for the putative future market millionnaires among you, TradingView Pine Script; and inventor, strictly out of necessity, of the things you see in this account. By avocation I'm a lifelong musician and dilettantish dabbler in many other arts. 
-- 🎸 Privately I'm a multinstrumentalist and a meaner guitarist than you'd expect. I’m currently learning React and the saxophone 🎷.
+- 👀 By vocation I’m a software engineer and consultant specializing for 30 years in FileMaker Pro development, web development (HTML, CSS, js, jQuery, PHP, Wordpress, CGI scripting), MacOS & Linux administration (Applescript, Automator, BASH, PERL, and general platform expertise), MS Excel, and, for the putative future market millionnaires among you, TradingView Pine Script; and inventor, strictly out of necessity, of the things you see in this account. By avocation I'm a lifelong multi-instrumentalist musician, a meaner guitarist than you'd expect, and dilettantish dabbler in many other arts. 
 - 🌱 I’m currently learning React and the saxophone 🎷.
 
 <!--- - 💞️ I’m looking to collaborate on ... --->
