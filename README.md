@@ -12,4 +12,4 @@ kupietools/kupietools is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-[![Kupietools's GitHub stats](https://github-readme-stats.vercel.app/api?username=kupietools&hide_rank=true&include_all_commits=true&line_height=16)](https://github.com/kupietools/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kupietools&langs_count=5&layout=compact&merge_others=true&size_weight=0&count_weight=1&custom_title=Languages%20%20%28Github-recognized%20only%29)](https://github.com/kupietools/github-readme-stats)
+[![Kupietools's GitHub stats](https://github-readme-stats.vercel.app/api?username=kupietools&hide_rank=true&include_all_commits=true&line_height=16)](https://github.com/kupietools/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kupietools&langs_count=6&layout=compact&merge_others=true&size_weight=0&count_weight=1&custom_title=Languages%20%20%28Github-recognized%20only%29)](https://github.com/kupietools/github-readme-stats)
