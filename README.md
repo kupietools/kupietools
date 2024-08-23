@@ -6,7 +6,7 @@
 ### 📫 Web presence & how to reach me IRL: 
 - [Certified FileMaker Pro Consultant & Full-Stack Web Developer](https://www.kupietz.com) is my professional consulting website at kupietz.com. My IRL contact info always posted there. I serve clients nationwide. 
 - [Michael Kupietz Arts+Code](https://michaelkupietz.com) at michaelkupietz.com is my showcase for my creative hobbies (within which I include coding and web design). 
-- I'm on LinkedIn at <https://www.linkedin.com/in/kupietz/> but if I'm busy that's the last place I'll see messages. Using my website contact info is much better. 
+- I'm on LinkedIn at <[https://www.linkedin.com/in/kupietz/](https://www.linkedin.com/posts/kupietz-filemaker-pro-consulting/)](https://www.linkedin.com/company/kupietz-filemaker-pro-consulting/)> but if I'm busy that's the last place I'll see messages. Using my website contact info is much better. 
 <!---
 kupietools/kupietools is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
