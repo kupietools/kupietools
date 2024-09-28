@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 [![Kupietools's GitHub stats](https://github-readme-stats.vercel.app/api?username=kupietools&hide_rank=true&include_all_commits=true&line_height=16)](https://github.com/kupietools/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kupietools&langs_count=6&layout=compact&merge_others=true&size_weight=0&count_weight=1&custom_title=Languages%20%20%28Github-recognized%20only%29)](https://github.com/kupietools/github-readme-stats)
 
-### Pinned
+<!-- CURRENTLY NOT WORKING ### Pinned
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kupietools&repo=BS-Detector&card_width=100%25)]([https://github.com/kupietools/BS-Detector](https://github.com/kupietools/BS-Detector))
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kupietools&repo=webcooler-userscript)]([https://github.com/kupietools/webcooler-userscript](https://github.com/kupietools/webcooler-userscript))
@@ -31,6 +31,4 @@ You can click the Preview link to take a look at your changes.
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=2f9f085228d765da579f0f0702bec33c)](https://gist.github.com/Yizack/2f9f085228d765da579f0f0702bec33c/)
 
 *Stats and custom pin cards provided by [https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
-
-<!-- extra pins: [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- gist pins [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/) -->
+ -->
