@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kupietools&repo=excel-liquidity-pool-simulator)]([https://github.com/kupietools/excel-liquidity-pool-simulator](https://github.com/kupietools/excel-liquidity-pool-simulator))
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kupietools&repo=_format-FM-calc-automator-workflow)]([https://github.com/kupietools/_format-FM-calc-automator-workflow](https://github.com/kupietools/_format-FM-calc-automator-workflow))
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kupietools&repo=wordpress-non-render-blocking-youtube-embed)]([https://github.com/kupietools/wordpress-non-render-blocking-youtube-embed](https://github.com/kupietools/wordpress-non-render-blocking-youtube-embed))
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kupietools&repo=mekphrame)]([https://github.com/kupietools/mekphrame](https://github.com/kupietools/wordpress-non-render-blocking-youtube-embed))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kupietools&repo=mekphrame)]([https://github.com/kupietools/mekphrame](https://github.com/kupietools/mekphrame))
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kupietools&repo=terminal-notifier-bridge-for-thunderbird)]([https://github.com/kupietools/mekphrame](https://github.com/kupietools/terminal-notifier-bridge-for-thunderbird))
 
 ### Gists
