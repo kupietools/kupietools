@@ -4,8 +4,8 @@
 
 <!--- - 💞️ I’m looking to collaborate on ... --->
 ### 📫 Web presence & how to reach me IRL: 
-- [Certified FileMaker Pro Consultant & Full-Stack Web Developer](https://www.kupietz.com) is my professional consulting website at kupietz.com. My IRL contact info always posted there. I serve clients nationwide. 
-- [Michael Kupietz Arts+Code](https://michaelkupietz.com) at michaelkupietz.com is my showcase for my creative hobbies (within which I include coding and web design). 
+- <a href="https://www.kupietz.com" rel="me">Certified FileMaker Pro Consultant & Full-Stack Web Developer</a> is my professional consulting website at kupietz.com. My IRL contact info always posted there. I serve clients nationwide. 
+- <a href="https://michaelkupietz.com" rel="me">Michael Kupietz Arts+Code</a> at michaelkupietz.com is my showcase for my creative hobbies (within which I include coding and web design). 
 - I'm on LinkedIn at https://www.linkedin.com/company/kupietz-filemaker-pro-consulting/ but if I'm busy that's the last place I'll see messages. Using my website contact info is much better. 
 <!---
 kupietools/kupietools is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
