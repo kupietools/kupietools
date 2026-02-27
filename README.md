@@ -12,23 +12,26 @@ kupietools/kupietools is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-[![Kupietools's GitHub stats](https://github-readme-stats.vercel.app/api?username=kupietools&hide_rank=true&include_all_commits=true&line_height=16)](https://github.com/kupietools/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kupietools&langs_count=6&layout=compact&merge_others=true&size_weight=0&count_weight=1&custom_title=Languages%20%20%28Github-recognized%20only%29)](https://github.com/kupietools/github-readme-stats)
 
-<!-- CURRENTLY NOT WORKING ### Pinned
+[![Kupietools's GitHub stats](https://github-readme-stats-gray-five-60.vercel.app/api?username=kupietools&hide_rank=true&include_all_commits=true&line_height=16)](https://github.com/kupietools/github-readme-stats) [![Top Langs](https://github-readme-stats-gray-five-60.vercel.app/api/top-langs/?username=kupietools&langs_count=8&layout=compact&merge_others=true&size_weight=0&count_weight=1&custom_title=Languages%20%20%28Github-recognized%20only%29)](https://github.com/kupietools/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kupietools&repo=BS-Detector&card_width=100%25)]([https://github.com/kupietools/BS-Detector](https://github.com/kupietools/BS-Detector))
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kupietools&repo=webcooler-userscript)]([https://github.com/kupietools/webcooler-userscript](https://github.com/kupietools/webcooler-userscript))
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kupietools&repo=DYORassistant)]([https://github.com/kupietools/DYORassistant](https://github.com/kupietools/DYORassistant))
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kupietools&repo=excel-liquidity-pool-simulator)]([https://github.com/kupietools/excel-liquidity-pool-simulator](https://github.com/kupietools/excel-liquidity-pool-simulator))
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kupietools&repo=_format-FM-calc-automator-workflow)]([https://github.com/kupietools/_format-FM-calc-automator-workflow](https://github.com/kupietools/_format-FM-calc-automator-workflow))
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kupietools&repo=wordpress-non-render-blocking-youtube-embed)]([https://github.com/kupietools/wordpress-non-render-blocking-youtube-embed](https://github.com/kupietools/wordpress-non-render-blocking-youtube-embed))
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kupietools&repo=mekphrame)]([https://github.com/kupietools/mekphrame](https://github.com/kupietools/mekphrame))
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kupietools&repo=terminal-notifier-bridge-for-thunderbird)]([https://github.com/kupietools/mekphrame](https://github.com/kupietools/terminal-notifier-bridge-for-thunderbird))
+### Pinned
+
+[![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=BS-Detector&card_width=100%25)](https://github.com/kupietools/BS-Detector)
+[![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=webcooler-userscript)](https://github.com/kupietools/webcooler-userscript)
+[![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=DYORassistant)](https://github.com/kupietools/DYORassistant)
+[![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=excel-liquidity-pool-simulator)](https://github.com/kupietools/excel-liquidity-pool-simulator)
+[![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=_format-FM-calc-automator-workflow)](https://github.com/kupietools/_format-FM-calc-automator-workflow)
+[![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=wordpress-non-render-blocking-youtube-embed)](https://github.com/kupietools/wordpress-non-render-blocking-youtube-embed)
+[![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=mekphrame)](https://github.com/kupietools/mekphrame)
+[![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=terminal-notifier-bridge-for-thunderbird)](https://github.com/kupietools/terminal-notifier-bridge-for-thunderbird)
+[![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=home-assistant-last-selected-scene-card)](https://github.com/kupietools/home-assistant-last-selected-scene-card)
+[![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=bitbar-yahoo-stocks-advanced)](https://github.com/kupietools/bitbar-yahoo-stocks-advanced)
 
 ### Gists
 
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=36cd89445dadeb87505663538d4f3a62)](https://gist.github.com/Yizack/36cd89445dadeb87505663538d4f3a62/)
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=2f9f085228d765da579f0f0702bec33c)](https://gist.github.com/Yizack/2f9f085228d765da579f0f0702bec33c/)
+[![Gist Card](https://github-readme-stats-gray-five-60.vercel.app/api/gist?id=c45a07aef7888e47a13097b6b8966ee5)](https://gist.github.com/kupietools/c45a07aef7888e47a13097b6b8966ee5)
+[![Gist Card](https://github-readme-stats-gray-five-60.vercel.app/api/gist?id=36cd89445dadeb87505663538d4f3a62)](https://gist.github.com/kupietools/36cd89445dadeb87505663538d4f3a62)
 
 *Stats and custom pin cards provided by [https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
- -->
+
