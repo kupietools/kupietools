@@ -1,5 +1,7 @@
 ### 👋 Welcome to my repos at @kupietools.<!--  • Gratam meam repositam apud @kupietools. • Elcomeway otay ymay eposray atway kupietools@ay. -->
- 👀 I'm Michael. By vocation I’m a software engineer and consultant specializing in FileMaker Pro and related technologies, full-stack web development (HTML, CSS, Javascript, jQuery, PHP, WordPress, MySQL, node.js, CGI scripting), MacOS & Linux administration (LAMP stack & networking admin, BASH, Applescript, Automator, PERL, and general platform expertise), MS Excel, and, for the putative future market millionnaires among you, TradingView Pine Script; and inventor, strictly out of necessity, of the things you see in this account. By avocation I'm a lifelong avid multi-instrumentalist musician, a [meaner guitarist](https://rick.wordpress.com/2009/05/28/tonight-live-performance-by-mike-kupietz-interview-with-cloud-archive/) than you'd expect, an [almost](https://intelligentarts.net/soundtext/)-completely-unacclaimed avant-garde composer, and a dilettantish dabbler in many other arts, some of which I have completed entire projects in. 
+ 👀 I'm Michael. By vocation I’m a software engineer, system administrator, and IT consultant specializing in bespoke business applications, longtime advocate for FileMaker Pro and related technologies, full-stack web development (HTML, CSS, Javascript, jQuery, PHP, WordPress, MySQL, node.js, CGI scripting), MacOS & Linux administration (LAMP stack & networking admin, BASH, Applescript, Automator, PERL, and general platform expertise), MS Excel, and, for the putative future market millionnaires among you, TradingView Pine Script; and inventor, strictly out of necessity, of the things you see in this account. 
+ 
+By avocation I'm a lifelong avid multi-instrumentalist musician, a [meaner guitarist](https://rick.wordpress.com/2009/05/28/tonight-live-performance-by-mike-kupietz-interview-with-cloud-archive/) than you'd expect, an [almost](https://intelligentarts.net/soundtext/)-completely-unacclaimed avant-garde composer, and a dilettantish dabbler in many other arts, some of which I have completed entire projects in. 
 - 🌱 I’m currently learning <strike>React and the saxophone 🎷</strike> marketing and the lyre 🎶.
 
 <!--- - 💞️ I’m looking to collaborate on ... --->
@@ -16,17 +18,23 @@ You can click the Preview link to take a look at your changes.
 [![Kupietools's GitHub stats](https://github-readme-stats-gray-five-60.vercel.app/api?username=kupietools&hide_rank=true&include_all_commits=true&line_height=16)](https://github.com/kupietools/github-readme-stats) [![Top Langs](https://github-readme-stats-gray-five-60.vercel.app/api/top-langs/?username=kupietools&langs_count=8&layout=compact&merge_others=true&size_weight=0&count_weight=1&custom_title=Languages%20%20%28Github-recognized%20only%29)](https://github.com/kupietools/github-readme-stats)
 
 ### Pinned
-
 [![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=BS-Detector&card_width=100%25)](https://github.com/kupietools/BS-Detector)
+[![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=web-CLI-browser&card_width=100%25)](https://github.com/kupietools/web-CLI-browser)
+[![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=mekphrame)](https://github.com/kupietools/mekphrame)
+[![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=home-assistant-last-selected-scene-card)](https://github.com/kupietools/home-assistant-last-selected-scene-card)
+[![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=theta-surface-toy&card_width=100%25)](https://github.com/kupietools/theta-surface-toy)
+[![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=big-diffr&card_width=100%25)](https://github.com/kupietools/big-diffr)
 [![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=webcooler-userscript)](https://github.com/kupietools/webcooler-userscript)
 [![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=DYORassistant)](https://github.com/kupietools/DYORassistant)
 [![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=excel-liquidity-pool-simulator)](https://github.com/kupietools/excel-liquidity-pool-simulator)
 [![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=_format-FM-calc-automator-workflow)](https://github.com/kupietools/_format-FM-calc-automator-workflow)
 [![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=wordpress-non-render-blocking-youtube-embed)](https://github.com/kupietools/wordpress-non-render-blocking-youtube-embed)
-[![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=mekphrame)](https://github.com/kupietools/mekphrame)
 [![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=terminal-notifier-bridge-for-thunderbird)](https://github.com/kupietools/terminal-notifier-bridge-for-thunderbird)
-[![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=home-assistant-last-selected-scene-card)](https://github.com/kupietools/home-assistant-last-selected-scene-card)
+[![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=Motley-Fool-recommendations-performance-analyzer)](https://github.com/kupietools/Motley-Fool-recommendations-performance-analyzer)
 [![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=bitbar-yahoo-stocks-advanced)](https://github.com/kupietools/bitbar-yahoo-stocks-advanced)
+
+
+
 
 ### Gists
 
