@@ -17,8 +17,45 @@ You can click the Preview link to take a look at your changes.
 
 [![Kupietools's GitHub stats](https://github-readme-stats-gray-five-60.vercel.app/api?username=kupietools&hide_rank=true&include_all_commits=true&line_height=16)](https://github.com/kupietools/github-readme-stats) [![Top Langs](https://github-readme-stats-gray-five-60.vercel.app/api/top-langs/?username=kupietools&langs_count=8&layout=compact&merge_others=true&size_weight=0&count_weight=1&custom_title=Languages%20%20%28Github-recognized%20only%29)](https://github.com/kupietools/github-readme-stats)
 
-### Pinned
+### Sample Projects
+
+#### Web Utilities, Tools, & Toys
 [![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=BS-Detector&card_width=100%25)](https://github.com/kupietools/BS-Detector)
+[![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=antispam-per-session-email-generator&card_width=100%25)](https://github.com/kupietools/antispam-per-session-email-generator) 
+[![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=web-CLI-browser&card_width=100%25)](https://github.com/kupietools/web-CLI-browser)
+[![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=mekphrame)](https://github.com/kupietools/mekphrame)
+[![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=big-diffr&card_width=100%25)](https://github.com/kupietools/big-diffr)
+[![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=webcooler-userscript)](https://github.com/kupietools/webcooler-userscript)
+[![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=draggable-elements-module-js)](https://github.com/kupietools/draggable-elements-module-js)
+
+#### Desktop Tools & Automation
+[![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=home-assistant-last-selected-scene-card)](https://github.com/kupietools/home-assistant-last-selected-scene-card)
+[![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=_format-FM-calc-automator-workflow)](https://github.com/kupietools/_format-FM-calc-automator-workflow)
+[![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=terminal-notifier-bridge-for-thunderbird)](https://github.com/kupietools/terminal-notifier-bridge-for-thunderbird)
+[![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=homeassistant-all-lights-YAML-generator)](https://github.com/kupietools/homeassistant-all-lights-YAML-generator)
+ 
+#### Finance Modeling & Utilities
+[![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=bitbar-yahoo-stocks-advanced)](https://github.com/kupietools/bitbar-yahoo-stocks-advanced)
+[![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=theta-surface-toy&card_width=100%25)](https://github.com/kupietools/theta-surface-toy)
+[![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=DYORassistant)](https://github.com/kupietools/DYORassistant)
+[![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=excel-liquidity-pool-simulator)](https://github.com/kupietools/excel-liquidity-pool-simulator)
+[![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=Motley-Fool-recommendations-performance-analyzer)](https://github.com/kupietools/Motley-Fool-recommendations-performance-analyzer)
+
+#### WordPress Plugins & Developer Tools
+[![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=ktwp-wp-plugin-caching-toolkit)](https://github.com/kupietools/ktwp-wp-plugin-caching-toolkit)
+[![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=wordpress-non-render-blocking-youtube-embed)](https://github.com/kupietools/wordpress-non-render-blocking-youtube-embed)
+[![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=ktwp-wp-plugin-draggable-elements)](https://github.com/kupietools/ktwp-wp-plugin-draggable-elements)
+[![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=ktwp-wp-plugin-caching-toolkit)](https://github.com/kupietools/ktwp-wp-plugin-caching-toolkit)
+[![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=ktwp-wp-plugin-editor-developerlog)](https://github.com/kupietools/ktwp-wp-plugin-editor-developerlog)
+[![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=ktwp-wp-plugin-page-appearance-adjuster)](https://github.com/kupietools/ktwp-wp-plugin-page-appearance-adjuster)
+[![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=ktwp-wp-plugin-editor-filemgr)](https://github.com/kupietools/ktwp-wp-plugin-editor-filemgr)
+[![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=ktwp-kupietools-wordpress-plugin-framework)](https://github.com/kupietools/ktwp-kupietools-wordpress-plugin-framework)
+[![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=ktwp-wp-plugin-github-plugin-pusher)](https://github.com/kupietools/ktwp-wp-plugin-github-plugin-pusher)
+[![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=ktwp-wp-plugin-editor-developerlog)](https://github.com/kupietools/ktwp-wp-plugin-editor-developerlog)
+[![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=ktwp-wp-plugin-the-eyes-have-it)](https://github.com/kupietools/ktwp-wp-plugin-the-eyes-have-it)
+[![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=ktwp-wp-plugin-add-details-previews)](https://github.com/kupietools/ktwp-wp-plugin-add-details-previews)
+
+<!-- UNCATEGORIZED ORDER WAS [![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=BS-Detector&card_width=100%25)](https://github.com/kupietools/BS-Detector)
 [![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=web-CLI-browser&card_width=100%25)](https://github.com/kupietools/web-CLI-browser)
 [![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=mekphrame)](https://github.com/kupietools/mekphrame)
 [![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=bitbar-yahoo-stocks-advanced)](https://github.com/kupietools/bitbar-yahoo-stocks-advanced)
@@ -32,7 +69,7 @@ You can click the Preview link to take a look at your changes.
 [![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=wordpress-non-render-blocking-youtube-embed)](https://github.com/kupietools/wordpress-non-render-blocking-youtube-embed)
 [![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=terminal-notifier-bridge-for-thunderbird)](https://github.com/kupietools/terminal-notifier-bridge-for-thunderbird)
 [![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=Motley-Fool-recommendations-performance-analyzer)](https://github.com/kupietools/Motley-Fool-recommendations-performance-analyzer)
-
+-->
 
 
 
