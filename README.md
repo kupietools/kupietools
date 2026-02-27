@@ -21,9 +21,10 @@ You can click the Preview link to take a look at your changes.
 [![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=BS-Detector&card_width=100%25)](https://github.com/kupietools/BS-Detector)
 [![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=web-CLI-browser&card_width=100%25)](https://github.com/kupietools/web-CLI-browser)
 [![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=mekphrame)](https://github.com/kupietools/mekphrame)
+[![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=bitbar-yahoo-stocks-advanced)](https://github.com/kupietools/bitbar-yahoo-stocks-advanced)
+[![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=big-diffr&card_width=100%25)](https://github.com/kupietools/big-diffr)
 [![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=home-assistant-last-selected-scene-card)](https://github.com/kupietools/home-assistant-last-selected-scene-card)
 [![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=theta-surface-toy&card_width=100%25)](https://github.com/kupietools/theta-surface-toy)
-[![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=big-diffr&card_width=100%25)](https://github.com/kupietools/big-diffr)
 [![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=webcooler-userscript)](https://github.com/kupietools/webcooler-userscript)
 [![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=DYORassistant)](https://github.com/kupietools/DYORassistant)
 [![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=excel-liquidity-pool-simulator)](https://github.com/kupietools/excel-liquidity-pool-simulator)
@@ -31,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 [![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=wordpress-non-render-blocking-youtube-embed)](https://github.com/kupietools/wordpress-non-render-blocking-youtube-embed)
 [![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=terminal-notifier-bridge-for-thunderbird)](https://github.com/kupietools/terminal-notifier-bridge-for-thunderbird)
 [![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=Motley-Fool-recommendations-performance-analyzer)](https://github.com/kupietools/Motley-Fool-recommendations-performance-analyzer)
-[![Readme Card](https://github-readme-stats-gray-five-60.vercel.app/api/pin/?username=kupietools&repo=bitbar-yahoo-stocks-advanced)](https://github.com/kupietools/bitbar-yahoo-stocks-advanced)
+
 
 
 
